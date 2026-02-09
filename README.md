@@ -5,6 +5,3 @@ This repository contains **Project Baseline**, an ongoing Governance, Risk, and 
 The project is currently a **work in progress (WIP)**. Artifacts are added incrementally as analyses are completed and reviewed.
 
 To avoid disclosure of sensitive or exploitable information, all documentation intentionally abstracts implementation-specific details while preserving risk logic, methodology, and decision-making rationale.
-
-## RMF Tailoring & Scope Statement
-This document defines the tailored application of the NIST SP 800-37 Risk Management Framework for Project Baseline, including mission objectives, stakeholders, and scope boundaries.
