@@ -42,17 +42,17 @@ These artifacts represent inputs and outputs that an IT Risk Analyst would typic
 
 ## Artifacts Explicitly Out of Scope
 
-The following items are intentionally excluded to preserve role accuracy and governance realism:
+To preserve role accuracy and proportional governance realism, the following items are intentionally excluded:
 
-- Formal risk acceptance decisions
+- Formal enterprise-level risk acceptance approvals
+  
+- Executive authorization records
+  
+- Organization-wide compliance attestations or audit-ready documentation
+  
+- Board-level governance oversight mechanisms
 
-- Executive approval or authorization records
-
-- Enterprise compliance claims or audit-ready documentation
-
-- Organization-wide risk appetite or tolerance statements
-
-Such items are typically owned by risk owners, IT risk managers, or senior leadership, and would not be authored or approved by an analyst-level role.
+While high-level governance context (e.g., mission framing, risk appetite boundaries) is defined to support analytical decision-making within this project, the IT Risk Analyst role represented here does not claim executive authority or enterprise ownership of risk.
 
 ## Educational and Demonstrative Context
 
